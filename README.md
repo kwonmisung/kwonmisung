@@ -23,7 +23,7 @@
 - 웨이팅 접수 및 실시간 목록 관리
 - RecyclerView 기반 UI 구성
 
-👉 [프로젝트 보러가기](https://github.com/여기에-아이디/android-waiting-app)
+👉 [프로젝트 보러가기](https://github.com/kwonmisung/android-waiting-app)
 
 ---
 
@@ -34,7 +34,7 @@
 - RoBERTa 모델 활용
 - 리뷰 데이터 기반 추천 시스템
 
-👉 [프로젝트 보러가기](https://github.com/여기에-아이디/emotion-book-recommendation)
+👉 [프로젝트 보러가기](https://github.com/kwonmisung/emotion-book-recommendation)
 
 ---
 
