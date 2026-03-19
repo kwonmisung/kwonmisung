@@ -11,7 +11,7 @@ Firebase 기반 데이터 처리 및 네트워크/시스템 설계 경험을 보
 - 안드로이드 앱 개발 경험 (Java/kotlin 기반)
 - Firebase를 활용한 실시간 데이터 처리 경험
 - 사용자 중심 기능 설계 및 구현 경험
-- 네크워크/시스템 설계 및 구현 경
+- 네크워크/시스템 설계 및 구현 경험
 - AI 기반 감정 분석 및 추천 시스템 프로젝트 경험
 
 ---
@@ -25,7 +25,7 @@ Firebase 기반 데이터 처리 및 네트워크/시스템 설계 경험을 보
 - 웨이팅 접수 및 실시간 목록 관리
 - RecyclerView 기반 UI 구성
 
-👉 [프로젝트 보러가기](https://github.com/kwonmisung/android-waiting-app)
+👉 [프로젝트 보러가기](https://github.com/NET-PROTOCOL/popin)
 
 ---
 
