@@ -25,7 +25,7 @@ Firebase 기반 데이터 처리 및 네트워크/시스템 설계 경험을 보
 - 웨이팅 접수 및 실시간 목록 관리
 - RecyclerView 기반 UI 구성
 
-👉 [프로젝트 보러가기](https://github.com/NET-PROTOCOL/popin)
+👉 [프로젝트 보러가기](https://github.com/kwonmisung/android-waiting-app)
 
 ---
 
@@ -37,7 +37,7 @@ Firebase 기반 데이터 처리 및 네트워크/시스템 설계 경험을 보
 - Pull 기반 대기열 시스템
 - Push-to-Talk 채팅 시스템
 
-👉 [프로젝트 보러가기](https://github.com/kwonmisung/network-protocol-design)
+👉 [프로젝트 보러가기](https://github.com/NET-PROTOCOL/popin)
 
 ---
 
