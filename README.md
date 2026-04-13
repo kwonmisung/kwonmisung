@@ -29,7 +29,7 @@ Firebase 기반 데이터 처리 및 네트워크/시스템 설계 경험을 보
 
 ---
 
-### 🌐 Pop-in Network Protocol ⭐
+### 🌐 2. Pop-in Network Protocol ⭐
 팝업스토어 환경에 사용자 경험을 개선하기 위한 네트워크 프로토콜
 
 - FSM 기반 상태 관리
