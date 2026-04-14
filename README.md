@@ -63,9 +63,11 @@ Firebase 기반 데이터 처리 및 네트워크/시스템 설계 경험을 보
 ### 🔥 Backend / Database
 - Firebase Authentication
 - Firebase Realtime Database
+- AWS EC2
+- AWS lambda
 
 ### 🌐 Network / System
-- REST API 이해
+- REST API
 - JSON Parsing
 - Network Protocol Design
 - Finite State Machine (FSM)
